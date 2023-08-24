@@ -5,6 +5,7 @@ CE252 class: Introduction to Data Science for Civil Engineers
 2023 Fall, KAIST
 
 
+
 ## Replace the content of the template pages
 
 Update the following files to your own content:
