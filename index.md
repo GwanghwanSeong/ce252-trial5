@@ -3,7 +3,7 @@ title: Introduction to Data Science for Civil Engineers
 layout: Lab
 ---
 
-
+CE252 class
 
 ----
 
